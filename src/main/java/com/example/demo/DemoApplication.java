@@ -9,7 +9,8 @@ public class DemoApplication {
         System.out.printf("123");
         System.out.println("345");
         System.out.println("789");
-        System.out.println("188811");
+        System.out.println("11");
+
 
     }
 
