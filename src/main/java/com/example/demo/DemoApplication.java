@@ -8,6 +8,7 @@ public class DemoApplication {
 
     public static void main(String[] args) {
         System.out.printf("123");
+        System.out.println("789");
     }
 
 }
